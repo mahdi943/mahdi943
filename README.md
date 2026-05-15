@@ -15,7 +15,7 @@
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.shion.dev/api?username=mahdi943&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mahdi943&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahdi943&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I am currently working on Agentic AI for Testcase generation.
-🌱 I’m currently learning AgentIc-AI
+🌱 Passionate to learn Agentic-AI
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdialipour@sabanciuniv.edu) 
@@ -15,11 +15,12 @@
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahdi943&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahdi943&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi943&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahdi943&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mahdi943&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahdi943&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahdi943&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=mahdi943&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
